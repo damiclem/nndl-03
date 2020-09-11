@@ -58,5 +58,3 @@ loss and sample of generated text.
 ### Charlie: character based text generator
 
 ### Worden: word based text generator
-
-### Tracee: transfer learning, based on   
